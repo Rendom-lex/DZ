@@ -1,0 +1,15 @@
+C:\Users\al-tr\Desktop\DZ-34\bin\Debug\net6.0\DZ-34.exe
+C:\Users\al-tr\Desktop\DZ-34\bin\Debug\net6.0\DZ-34.deps.json
+C:\Users\al-tr\Desktop\DZ-34\bin\Debug\net6.0\DZ-34.runtimeconfig.json
+C:\Users\al-tr\Desktop\DZ-34\bin\Debug\net6.0\DZ-34.dll
+C:\Users\al-tr\Desktop\DZ-34\bin\Debug\net6.0\DZ-34.pdb
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.csproj.AssemblyReference.cache
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.AssemblyInfoInputs.cache
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.AssemblyInfo.cs
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.csproj.CoreCompileInputs.cache
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.dll
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\refint\DZ-34.dll
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.pdb
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\DZ-34.genruntimeconfig.cache
+C:\Users\al-tr\Desktop\DZ-34\obj\Debug\net6.0\ref\DZ-34.dll
